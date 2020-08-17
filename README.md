@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**Tom-Far12/Tom-Far12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning ... different technical areas specically within the software engineer field!
+- 🤔 I’m looking for help with ... learning new ways in the software engineer field.
+- 💬 Ask me about ... nothing, which is something, therefore something is nothing and nothing is something.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+     Discord: TomTheMan#1396
 - ⚡ Fun fact: ...
--->
+     - Hobbies: 
+       - Playing video games (currently playing Metro Exodus!) 
+       - creating impartial games that will never see the light of day
+       - writing stories (currently working on a novel) 
+       - staring out into space... outer space.
+     - Movies/Series that I Love: 
+       - LOTR and The Hobbit trilogy 
+       - Pirates of the Caribbean
+       - Harry Potter Series including Fantastic Beasts movies
+       - Star Wars (OT + Prequels + Rogue One + Solo) 
+       - Apollo 11 
+             
+## ***CURSE OF THE BLACK PEARL > FELLOWSHIP OF THE RING*** 
+              
+## ***CHANGE MY MIND!***
+
